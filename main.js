@@ -17,3 +17,7 @@ function secondary(foo){
 	}
 	obj.name = 'testFix';
 }
+
+function exit(){
+	close();
+}
