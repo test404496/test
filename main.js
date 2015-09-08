@@ -12,5 +12,7 @@ function main(foo){
 }
 
 function secondary(foo){
-	//
+	var obj={
+		name:'test'
+	}
 }
