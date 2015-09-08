@@ -15,4 +15,9 @@ function secondary(foo){
 	var obj={
 		name:'test'
 	}
+	obj.name = 'testFix';
+}
+
+function exit(){
+	close();
 }
