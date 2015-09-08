@@ -20,4 +20,5 @@ function secondary(foo){
 
 function exit(){
 	close();
+	temp();
 }
